@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://idwlstr.notion.site/My-Portfolio-6a1894b5ae974d34b2b8a743921f0479?pvs=4](https://idwlstr.notion.site/My-Portfolio-6a1894b5ae974d34b2b8a743921f0479?pvs=4)
 
-- 💬 Ask me about **Data Analysis, Data Visualization**
+- 💬 Ask me about **Data Analysis, Machine Learning, Data Visualization**
 
 - 📫 How to reach me **dewilestari.indah.idl@gmail.com**
 

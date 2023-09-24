@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1ndahdl&label=Profile%20views&color=0e75b6&style=flat" alt="1ndahdl" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://idwlstr.notion.site/My-Portfolio-6a1894b5ae974d34b2b8a743921f0479?pvs=4](https://idwlstr.notion.site/My-Portfolio-6a1894b5ae974d34b2b8a743921f0479?pvs=4)
+- 👨‍💻 All of my projects are available at [https://1ndahdl.github.io/IndahDewiLestari/](https://1ndahdl.github.io/IndahDewiLestari/)
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Data Visualization**
 
